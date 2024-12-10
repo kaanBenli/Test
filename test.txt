@@ -1,2 +1,10 @@
 test test
   birinci commit
+
+
+  bugün hava çok güzel
+
+
+
+  ikinci commit atacağım
+  
