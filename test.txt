@@ -12,3 +12,7 @@ test test
   Fenerbahçe şampiyon
 
   üçüncü commit atacağım
+
+  merhaba ben omer 
+
+  dorduncu commit attım
